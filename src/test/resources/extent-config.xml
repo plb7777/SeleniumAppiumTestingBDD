@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<extentreports>
+	<configuration>
+		<reportName>Automation Test Results</reportName>
+		<documentTitle>Test Report</documentTitle>
+		<encoding>utf-8</encoding>
+		<protocol>https</protocol>
+		<theme>dark</theme>
+		<timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+		<chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+	</configuration>
+</extentreports>
